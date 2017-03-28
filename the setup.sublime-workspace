@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ow",
+				"owl-carousel"
+			],
+			[
+				"owl-",
+				"owl-demo"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ro",
+				"row-content"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"b",
+				"background-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"g",
+				"gamelevel"
+			],
+			[
+				"gu",
+				"guessCount"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 7716,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 14754,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "tab",
+		"selected_items":
+		[
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/the setup",
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/the setup/css",
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/the setup/js"
+	],
+	"file_history":
+	[
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/the setup/index.html",
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/Ref/!TheSetup/index.html",
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/the setup/css/main.css",
+		"/D/TuHTT/Working/MOOC/Udemy_PSD To a Creative Landing Page Using Bootstrap/index.html",
+		"/D/TuHTT/Working/MOOC/Web UI Framework/W1/conFusion/aboutus _amit.html",
+		"/D/TuHTT/Working/MOOC/Web UI Framework/W1/conFusion/index.html",
+		"/D/TuHTT/Working/MOOC/Web UI Framework/W1/conFusion/aboutus.html",
+		"/D/TuHTT/Working/MOOC/Web UI Framework/W1/conFusion/aboutus_padala.html",
+		"/D/TuHTT/Working/MOOC/Web UI Framework/W1/conFusion/aboutus_LeTrongLuc.html",
+		"/D/TuHTT/Working/MOOC/Web UI Framework/W1/conFusion/css/mystyles.css",
+		"/D/TuHTT/Working/MOOC/CS034_HTML_CSS and JavaScript/W3/part4.html",
+		"/D/TuHTT/Working/MOOC/CS034_HTML_CSS and JavaScript/W3/Matching Game/game.html",
+		"/D/TuHTT/Working/MOOC/CS034_HTML_CSS and JavaScript/W3/part3.html",
+		"/D/TuHTT/Working/MOOC/CS034_HTML_CSS and JavaScript/W2/part1.html",
+		"/D/TuHTT/Working/MOOC/CS034_HTML_CSS and JavaScript/W2/part2.html",
+		"/D/TuHTT/Working/MOOC/CS034_HTML_CSS and JavaScript/W1/PeerGradedAssignment/part3.html",
+		"/D/99_Working/FSCoin/Q3_2016/Q3_2016/Q3.txt",
+		"/D/99_Working/20160904/Fresher21/Fresher21DN_ReviewSourceCode_Evaluation.xlsx",
+		"/D/99_Working/CNU/Fresher 22/CNU-FR22/CNU_FinalTest_ThongNX/DemChuoiCon.java",
+		"/D/99_Working/20160103/CRG_Daily Agenda Meeting.txt",
+		"/D/99_Working/20160103/CRG_Daily Agenda Meeting_TS",
+		"/D/99_Working/20160223/20131024/TConst.bas",
+		"/D/99_Working/20160103/TuHTT1.ics",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Controllers/ListapplicationController.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Controllers/SearchController.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Models/SearchApplication.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Models/Xulydulieu.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Models/ListApplication.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Models/Phantrang.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Models/User.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KhoaiP/Mock1_Khoaip/Mock1_Khoaip/Models/SearchData.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/Controllers/ViewApplicationDetailsController.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/Global.asax.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/ConnectDatabase/DataBase.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/Models/BankDetails.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/Models/CreditApplication.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/Views/ViewApplicationDetails/ListApplication.cshtml",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_KienHQ/Mock1/Views/ViewApplicationDetails/EditApplication.cshtml",
+		"/D/99_Working/20151228/ChamWhitebox/Code/Fresher18DN_MockProject_T1_MinhTQ11_Code/Minhtq11_Mock1/Minhtq11_Mock1/Scripts/myscript.js",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Code_LongNNB/MockFinal/Controllers/EtailerController.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Code_LongNNB/MockFinal/Models/EtailerDAO.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/Fresher18DN_MockProject_T1_MinhTQ11_Code/Minhtq11_Mock1/Minhtq11_Mock1/Controllers/HomeController.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/Fresher18DN_MockProject_T1_MinhTQ11_Code/Minhtq11_Mock1/Minhtq11_Mock1/Models/CurrentAddressDetail.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_PhucNH13/PROCEDURE.sql",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_PhucNH13/UserManagement/UserManagement/DAO/UserDAO.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FRE18DN_MockProject_IT1_Coding_QuyPT/MockProject1/MockProject1/Dao/CreditApplicationDao.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FRE18DN_MockProject_IT1_Coding_QuyPT/MockProject1/MockProject1/Dao/ViewOverallSummaryDao.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_TueTT/ManagerQuote/ManagerQuote/Dao/ServiceDao.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_TueTT/ManagerQuote/ManagerQuote/Dao/ApplicationDao.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_TueTT/ManagerQuote/ManagerQuote/Dao/QuoteDao.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Code_NamDH11/MockCode_ver5/MockProjectFinance/MockProjectFinance/Scripts/financescript.js",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Code_NamDH11/MockCode_ver5/MockProjectFinance/MockProjectFinance/DAO/CreditApplicationDataDAO.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Code_NamDH11/MockCode_ver5/MockProjectFinance/MockProjectFinance/Controllers/CreditApplicationDataController.cs",
+		"/D/99_Working/20151228/ChamWhitebox/Code/FR18DN_MockProject_IT1_Coding_QuangPM2/MockProject1/MockProject1/DAO/ReportsDAO.cs",
+		"/C/Users/TuHTT/Downloads/SinhVienIT.Net---Crack-Photoshop-CS3 - Copy/Crack Photoshop CS3/serial.nfo",
+		"/C/Users/TuHTT/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\99_Working\\20151228\\ChamWhitebox\\Code\\FR18DN_MockProject_IT1_Coding_KienHQ"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vertical-align",
+			"  ",
+			"Meet",
+			".7z",
+			".zip",
+			"D:\\99_Working\\Fresher23\\Fresher23DN_CNU_Final\\CNU_FinalTest_",
+			"D:\\99_Working\\Fresher23\\Fresher23DN_CNU_Final\\CNU_FinalTes_",
+			"D:\\99_Working\\Fresher23\\Fresher23DN_CNU_Final\\CNU_Final_",
+			": ",
+			"GetAppicationDetailsInformation()\nGetAppicationDetailsInformation()\nGetAppicationDetailsInformation",
+			"PersonalDetailsView",
+			"GetForbiddenList",
+			"GetForbiddenList()\n",
+			"GetErrorReport",
+			"getReports"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"",
+			"_Meeting "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6044,
+								6044
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6606.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "the setup.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
