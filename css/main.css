@@ -80,7 +80,7 @@ hr.icon:after {
 
 /** -- Header -- */
 #home {
-	background: url(../image/background.png) fixed;
+	background: url(../images/background.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -122,7 +122,7 @@ hr.icon:after {
 
 /** -- About -- */
 #about {
-	background: url(../image/aboutbg.png) fixed;
+	background: url(../images/aboutbg.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -172,7 +172,7 @@ hr.icon:after {
 
 /** -- Skill -- */
 #skill {
-	background: url(../image/skillsbg.png) fixed;
+	background: url(../images/skillsbg.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -309,7 +309,7 @@ hr.icon:after {
 }
 
 .codes {
-	background: url(../image/stats1.png) fixed;
+	background: url(../images/stats1.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -317,7 +317,7 @@ hr.icon:after {
 }
 
 .project {
-	background: url(../image/stats2.png) fixed;
+	background: url(../images/stats2.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -325,7 +325,7 @@ hr.icon:after {
 }
 
 .clients {
-	background: url(../image/stats3.png) fixed;
+	background: url(../images/stats3.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -333,7 +333,7 @@ hr.icon:after {
 }
 
 .feedback {
-	background: url(../image/stats4.png) fixed;
+	background: url(../images/stats4.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -342,7 +342,7 @@ hr.icon:after {
 
 /** -- Quotes -- */
 #quotes {
-	background: url(../image/quotesbg.png);
+	background: url(../images/quotesbg.png);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -352,6 +352,67 @@ hr.icon:after {
 	position: relative;
 }
 
+.item h4 {
+	font-weight: 300;
+}
+
+.item cite {
+	font-style: normal;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+.item p {
+	font-weight: 300;
+}
+
+.item img {
+	width: 80px;
+	height: 80px;
+	border-radius: 5px;
+	margin: auto;	
+}
+
+.carousel-control.left, .carousel-control.right {
+	background: none;
+	outline: 0;
+}
+
+.carousel-control.left {
+	left: -30px;
+}
+
+.carousel-control.right {
+	right: -30px;
+}
+
+.carousel .carousel-control {
+	visibility: hidden;
+}
+
+.carousel:hover .carousel-control {
+	visibility: visible;
+}
+
+.carousel-indicators {
+	top: auto;
+	bottom: 0px;
+}
+
+.item blockquote {
+	border-left: none;
+	
+	margin-bottom: 30px;
+}
+
+.item blockquote p:before {
+    content: "\f10d";
+    font-family: 'Fontawesome';
+    float: left;
+    margin-right: 10px;
+}
+
+/*
 .owl-carousel h4 {
 	font-weight: 300;
 }
@@ -373,6 +434,11 @@ hr.icon:after {
 	font-weight: 300;
 }
 
+blockquote {
+	border-left: none;
+	
+}
+*/
 /** -- Contact form -- */
 .form-control {
 	height: 45px;
@@ -418,7 +484,7 @@ hr.icon:after {
 
 /** -- Footer -- */
 #footer {
-	background: url(../image/footerbg.png) fixed;
+	background: url(../images/footerbg.png) fixed;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
